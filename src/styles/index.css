@@ -10,3 +10,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bg-negro {
+    background: #101310;
+}
+
+.border-negro {
+    border: 4px solid #161616;
+}
+
+.size-clock {
+    font-size: 135px;
+}
